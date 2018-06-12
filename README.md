@@ -1,4 +1,4 @@
-## Yoselyn Te Quiero 
+##
 
 You can use the [editor on GitHub](https://github.com/guiller18/Prueba-de-Ingreso/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
